@@ -1,0 +1,74 @@
+html {
+    height: 2500px;
+  }
+  .offers {
+    background-color: #2f303a;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-bottom: 95px
+  }
+  .offers-title {
+    font-family: "Roboto";
+    font-size: 44px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 60px;
+    color: #fff;
+    margin-bottom: 30px;
+  }
+
+  .offers-link {
+    background-color: #2196f3;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 700;
+    color: #fff;
+    border-radius: 4px;
+    padding: 20px 30px;
+    display: inline-block;
+    margin-left: 470px;
+  }
+
+  .benefit-item {
+    margin: 5px;
+    flex-direction: row;
+    vertical-align: top;
+  }
+
+  .benefit-title {
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #212121;
+    margin-bottom: 10px;
+  }
+
+  .benefit-description {
+    width: 270px;
+    font-family: "Roboto";
+    line-height: 24px;
+    color: #757575;
+  }
+  .title {
+    text-align: center;
+    font-family: "Roboto";
+  }
+  .section {
+    display: inline-block;
+  }
+  .team-item{
+    display:inline-block;
+    text-align: center;
+    font-family: "Roboto";
+  }
+  .team {
+    background: color #F5F4FA;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-bottom: 95px ;
+  }
+  .header-content {
+    justify-content: space-around;
+  } 
